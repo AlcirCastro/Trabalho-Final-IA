@@ -1,15 +1,16 @@
 ## Trabalho Final da Disciplina de IA
 
 Alunos:
-- Alcir Heber Castro Figueiredo, 22060030
-- Pedro Lucas Bezerra Mendes, 22060033
-- Maria Luiza Saldanha, 22153140
+- Alcir Heber Castro Figueiredo, Matrícula: 22060030
+- Pedro Lucas Bezerra Mendes, Matrícula: 22060033
+- Maria Luiza Saldanha, Matrícula: 22153140
 
-## How To
+## Instruções
 
 **OBS:** Recomendável executar no Google Colab
 
 Passos:
-1. Para executar nosso modelo, é necessário realizar o download do arquivo "nome do arquivo", que é onde todos os códigos estão inseridos.
-2. Em seguida, é necessário realizar o upload da imagem (caso esteja utilizando o Google Colab), e em seguida basta inserir o nome da imagem após a mensagem "Nome da foto: ", como por exemplo "cachorros.jpg"
-
+1. Faça o download do arquivo "nome_do_arquivo.ipynb", que contém todos os códigos necessários.
+2. Abra o arquivo em um ambiente adequado para execução, como o Jupyter Notebook ou o Google Colab.
+3. Execute as células do arquivo conforme necessário.
+4. Carregue uma imagem para ser usada como entrada. Se estiver utilizando o Google Colab, faça o upload da imagem e insira o nome dela quando solicitado. Por exemplo, "cachorros.jpg".
