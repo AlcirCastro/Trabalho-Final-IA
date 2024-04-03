@@ -10,7 +10,7 @@ Alunos:
 **OBS:** Recomendável executar no Google Colab
 
 Passos:
-1. Faça o download do arquivo "TrabalhoFinal_LTN.ipynb", que contém todos os códigos necessários.
+1. Faça o download do arquivo "TrabalhoFinal_LTNtorch.ipynb", que contém todos os códigos necessários.
 3. Abra o arquivo em um ambiente adequado para execução, como o Jupyter Notebook ou o Google Colab.
 4. Execute as células do arquivo conforme necessário.
 5. Carregue uma imagem para ser usada como entrada. Se estiver utilizando o Google Colab, faça o upload da imagem e insira o nome dela quando solicitado. Por exemplo, "cachorros.jpg".
