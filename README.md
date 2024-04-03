@@ -18,7 +18,10 @@ Passos:
 6. Em seguida, o YOLO irá gerar as bounding boxes correspondentes à imagem carregada. Essas bounding boxes serão utilizadas como entrada para o modelo, permitindo a análise dos dados e a realização das inferências necessárias.
 
 
-##YOLO
+## YOLO
 
-Como o YOLO está funcionando?
+Como o YOLO está sendo utilizado? 
+
+Para testar o YOLO, adicione uma imagem em seu seu projeto para verificar as bounding boxes geradas.
+
 
