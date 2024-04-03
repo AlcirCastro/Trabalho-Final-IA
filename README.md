@@ -15,7 +15,7 @@ Passos:
 4. Execute as células do arquivo conforme necessário.
 5. Carregue uma imagem para ser usada como entrada. Se estiver utilizando o Google Colab, faça o upload da imagem e insira o nome dela quando solicitado. Por exemplo, "cachorros.jpg".
    ![image](https://github.com/AlcirCastro/Trabalho-Final-IA/assets/142113326/946598d9-de49-48bd-b725-a1ee9f9c26de)
-6. Em seguida, o modelo irá gerar as bounding boxes correspondentes à imagem carregada. Essas bounding boxes serão utilizadas como entrada para o modelo, permitindo a análise dos dados e a realização das inferências necessárias.
+6. Em seguida, o YOLO irá gerar as bounding boxes correspondentes à imagem carregada. Essas bounding boxes serão utilizadas como entrada para o modelo, permitindo a análise dos dados e a realização das inferências necessárias.
 
 
 ##YOLO
