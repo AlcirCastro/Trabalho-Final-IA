@@ -7,5 +7,6 @@ Alunos:
 
 ## How To
 Passos:
-1- Para executar nosso modelo é necessário realizar o download do arquivo "nome do arquivo", que é onde todos os códigos estão inseridos.
-2- Em seguida, é necessário ter uma foto para ser utilizada no 
+1. Passo 1: Para executar nosso modelo, é necessário realizar o download do arquivo "nome do arquivo", que é onde todos os códigos estão inseridos.
+2. Passo 2: Em seguida, é necessário ter uma foto para ser utilizada.
+
