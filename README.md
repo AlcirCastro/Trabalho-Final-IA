@@ -6,4 +6,6 @@ Alunos:
 - Maria Luiza Saldanha, 22153140
 
 ## How To
-Para executar nosso modelo, primeiramente...
+Passos:
+1- Para executar nosso modelo é necessário realizar o download do arquivo "nome do arquivo", que é onde todos os códigos estão inseridos.
+2- Em seguida, é necessário ter uma foto para ser utilizada no 
