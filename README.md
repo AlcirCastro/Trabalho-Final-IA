@@ -4,3 +4,6 @@ Alunos:
 - Alcir Heber Castro Figueiredo, 22060030
 - Pedro Lucas Bezerra Mendes, 22060033
 - Maria Luiza Saldanha, 22153140
+
+## How To
+Para executar nosso modelo, primeiramente...
